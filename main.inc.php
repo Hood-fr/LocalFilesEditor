@@ -23,7 +23,7 @@
 
 /*
 Plugin Name: LocalFiles Editor
-Version: auto
+Version: 2.9.4
 Description: Edit local files from administration panel
 Plugin URI: http://piwigo.org/ext/extension_view.php?eid=144
 Author: Piwigo team
